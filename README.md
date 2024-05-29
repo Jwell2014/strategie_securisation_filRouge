@@ -19,6 +19,11 @@ protecting user data and maintaining trust.
    1. [Authentification Robuste](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense/Authentification_Robuste.md)
    1. [Gestion des Autorisations](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense/Gestion_Autorisations.md)
 
+1. [Sécurité RMS FRONT-END](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front)
+    1. [Authentification Robuste](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front/Authentification_Robuste.md)
+    2. [Validation des Entrées Utilisateur](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front/Authentification_Robuste.md)
+
+
 **2/ Mécanismes de Défense**
 
 **2.1 Authentification Robuste

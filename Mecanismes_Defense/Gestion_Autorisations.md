@@ -5,7 +5,7 @@ garantir un accès sécurisé aux fonctionnalités et aux données. Pour ce
 modèle de Contrôle d'Accès Basé sur les Rôles (RBAC), qui définit les autorisations en fonction
 des rôles des utilisateurs.
 
-Les Rôles :
+**Les Rôles** :
 
 Admin : Les administrateurs bénéficient du plus haut niveau d'accès dans l'application. Ils ont le
 privilège d'accéder à toutes les fonctionnalités et à toutes les données, ce qui leur permet de
@@ -19,7 +19,7 @@ Dev : Les développeurs sont des utilisateurs internes, souvent impliqués dan
 et la maintenance de l'application. Ils ont accès à des fonctionnalités spécifiques et à des
 données sensibles liées au développement et à la gestion de l'application.
 
-Le Contrôle d'Accès :
+**Le Contrôle d'Accès** :
 
 Nous avons mis en place une logique de contrôle d'accès qui vérifie le rôle de l'utilisateur et la
 ressource demandée pour déterminer s'il est autorisé à y accéder.
@@ -40,3 +40,5 @@ origines.
 
 Grâce à l'utilisation combinée du modèle RBAC et de CORS, nous assurons un accès sécurisé et
 approprié à notre application, tout en garantissant la confidentialité et l'intégrité des données.
+
+![Getting Started](/Assets/rbac.png)
