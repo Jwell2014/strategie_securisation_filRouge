@@ -1,10 +1,12 @@
-**1.1Analyse des Risques**
+# 1.1Analyse des Risques
 
 Avant de mettre en place des mesures de sécurité, il est crucial d'identifier les risques potentiels
 et les vulnérabilités. Une analyse approfondie des risques permet d'évaluer les menaces
 potentielles et leur impact sur l'application et ses utilisateurs.
 
-**Risques Potentiels :**1.**Attaques par Injection SQL (SQL Injection):**
+**Risques Potentiels :
+
+**1.**Attaques par Injection SQL (SQL Injection):**
 
 Risque : Les attaques par injection SQL peuvent permettre à un attaquant d'exécuter des
 commandes SQL non autorisées en exploitant les vulnérabilités de l'application.

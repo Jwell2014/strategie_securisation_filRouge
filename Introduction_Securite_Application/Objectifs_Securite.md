@@ -1,4 +1,4 @@
-**1.2 Objectifs de Sécurité**
+# 1.2 Objectifs de Sécurité
 
 **1. Confidentialité :**
 

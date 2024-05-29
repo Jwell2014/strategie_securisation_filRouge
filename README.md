@@ -11,24 +11,13 @@ protecting user data and maintaining trust.
 
 ## Table des matières
 
-1. [Introduction à la Sécurité de l'Application](#introduction)
+1. [Introduction à la Sécurité de l'Application](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Introduction_Securite_Application)
    1. [Analyse des Risques](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Introduction_Sécurité_Application/Analyse_Risques.md)
-   1. [Objectifs de Sécurité](#introduction)
-1. [Introduction à la Sécurité de l'Application](#introduction)
-2. [MERISE](#accro)
-3. [Règles de gestion](https://github.com/Jwell2014/Appli_pire2pire/blob/master/Merise/Gestion_rules.md)
-4. [Dictionnire de données](https://github.com/Jwell2014/Appli_pire2pire/blob/master/Merise/Dictionnaire_de_donnees.md)
-5. [MCD](https://github.com/Jwell2014/Appli_pire2pire/blob/master/Merise/MCD.md)
-6. [MLD](https://github.com/Jwell2014/Appli_pire2pire/blob/master/Merise/MLD.md)
-7. [MPD](https://github.com/Jwell2014/Appli_pire2pire/blob/master/Merise/MPD.md)
-8. [ScriptSQL](https://github.com/Jwell2014/Appli_pire2pire/blob/master/Merise/SciptSQL.md)
+   1. [Objectifs de Sécurité](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Introduction_Sécurite_Application/Objectifs_Sécurite.md)
 
-
-
-**1/Introduction à la Sécurité de l'Application**
-
-**1.1 Analyse des Risques
-1.2 Objectifs de Sécurité**
+2. [Mécanismes de Défense](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense)
+   2. [Authentification Robuste](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense/Authentification_Robuste.md)
+   2. [Gestion des Autorisations](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense/Gestion_Autorisations.md)
 
 **2/ Mécanismes de Défense**
 
