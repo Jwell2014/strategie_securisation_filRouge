@@ -11,9 +11,9 @@ protecting user data and maintaining trust.
 
 ## Table des matières
 
-1. **[Introduction à la Sécurité de l'Application]
-1.1 Analyse des Risques
-1.2 Objectifs de Sécurité**
+1. [Introduction à la Sécurité de l'Application]
+    [1.1 Analyse des Risques]
+    [1.2 Objectifs de Sécurité]
 1. [Introduction à la Sécurité de l'Application](#introduction)
 2. [MERISE](#accro)
 3. [Règles de gestion](https://github.com/Jwell2014/Appli_pire2pire/blob/master/Merise/Gestion_rules.md)
