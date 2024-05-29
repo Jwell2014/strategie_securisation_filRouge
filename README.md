@@ -13,7 +13,7 @@ protecting user data and maintaining trust.
 
 1. [Introduction à la Sécurité de l'Application](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Introduction_Securite_Application)
    1. [Analyse des Risques](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Introduction_Securite_Application/Analyse_Risques.md)
-   2. [Objectifs de Sécurité](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Introduction_Securite_Application/Objectifs_Sécurite.md)
+   2. [Objectifs de Sécurité](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Introduction_Securite_Application/Objectifs_Securite.md)
 
 2. [Sécurité RMS FRONT-END](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front)
     1. [Authentification Robuste](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front/Authentification_robuste.md)
