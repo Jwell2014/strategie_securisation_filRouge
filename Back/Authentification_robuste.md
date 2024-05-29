@@ -7,7 +7,7 @@
 
 **Exemple :**
 
-````[Java]
+```Java
 // Exemple en Java avec Spring Security
 public class JwtRequestFilter extends OncePerRequestFilter {
 
@@ -38,4 +38,4 @@ public class JwtRequestFilter extends OncePerRequestFilter {
         chain.doFilter(request, response);
     }
 }
-````
+```
