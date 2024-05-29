@@ -20,33 +20,15 @@ protecting user data and maintaining trust.
    1. [Gestion des Autorisations](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense/Gestion_Autorisations.md)
 
 1. [Sécurité RMS FRONT-END](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front)
-    1. [Authentification Robuste](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front/Authentification_Robuste.md)
-    2. [Validation des Entrées Utilisateur](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front/Authentification_Robuste.md)
+    1. [Authentification Robuste](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front/Authentification_robuste.md)
+    2. [Validation des Entrées Utilisateur](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front/Validation_entree_utilisateur.md)
 
 
-**2/ Mécanismes de Défense**
-
-**2.1 Authentification Robuste
-2.2 Gestion des Autorisations
-2.3 Protection contre les Injections SQL
-2.4 Validation des Entrées Utilisateur
-2.5 Chiffrement des Données Sensibles et Gestion des Mots de Passe
-2.6 Protection contre les Attaques par Déni de Service
-2.7 Audit et Journalisation
-2.8 Mises à Jour Régulières
-2.9 Tests de Sécurité**
-
-**3/ Principes de Sécurité**
-
-**3.1 Défense en Profondeur
-3.2 Principe du Moindre Privilège
-3.3 Réduction de la Surface d'Attaque**
-
-***
+# Projet
 
 Votre mission est de présenter une stratégie de sécurisation de votre applications web, en appliquant cette stratégie sur la conception de votre projet fil rouge.
 
-# Contexte du projet
+## Contexte du projet
 
 Vous êtes sur le point de commencer la conception de votre application Fil Rouge, c'est le meilleur moment pour effectuer une recherche de documentation / veille et de déterminer une stratégie de sécurisation de votre application.
 
@@ -80,4 +62,4 @@ Rendu individuel, présentation en groupe :
 * La présentation doit être pédagogique et facile à comprendre pour un néophyte
 * Les informations doivent être techniquement justes et tirées de sources "fiables" et/ou officielles (ANSSI, OWASP, MDN, Stackoverflow, etc...)
 * La stratégie de sécurisation doit couvrir tout le cycle de vie du développement de votre application
-* La stratégie de sécurisation doit couvrir toutes les couches ntiers de l'application
+* La stratégie de sécurisation doit couvrir toutes les couches metiers de l'application
