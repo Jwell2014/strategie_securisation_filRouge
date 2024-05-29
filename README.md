@@ -1,6 +1,37 @@
 # strategie_securisation_filRouge
 Stratégie de Conception et de Sécurisation du Projet Fil Rouge
 
+**Introduction**
+
+In the digital age, ensuring the security and integrity of user data is paramount for any web
+application. This document describes the security strategy for the RMS application, aimed at
+protecting user data and maintaining trust.
+
+**1/Introduction à la Sécurité de l'Application**
+
+**1.1 Analyse des Risques
+1.2 Objectifs de Sécurité**
+
+**2/ Mécanismes de Défense**
+
+**2.1 Authentification Robuste
+2.2 Gestion des Autorisations
+2.3 Protection contre les Injections SQL
+2.4 Validation des Entrées Utilisateur
+2.5 Chiffrement des Données Sensibles et Gestion des Mots de Passe
+2.6 Protection contre les Attaques par Déni de Service
+2.7 Audit et Journalisation
+2.8 Mises à Jour Régulières
+2.9 Tests de Sécurité**
+
+**3/ Principes de Sécurité**
+
+**3.1 Défense en Profondeur
+3.2 Principe du Moindre Privilège
+3.3 Réduction de la Surface d'Attaque**
+
+***
+
 Votre mission est de présenter une stratégie de sécurisation de votre applications web, en appliquant cette stratégie sur la conception de votre projet fil rouge.
 
 # Contexte du projet
