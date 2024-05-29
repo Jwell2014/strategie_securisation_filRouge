@@ -12,17 +12,26 @@ protecting user data and maintaining trust.
 ## Table des matières
 
 1. [Introduction à la Sécurité de l'Application](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Introduction_Securite_Application)
-   1. [Analyse des Risques](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Introduction_Sécurité_Application/Analyse_Risques.md)
-   1. [Objectifs de Sécurité](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Introduction_Sécurite_Application/Objectifs_Sécurite.md)
+   1. [Analyse des Risques](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Introduction_Securite_Application/Analyse_Risques.md)
+   1. [Objectifs de Sécurité](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Introduction_Securite_Application/Objectifs_Sécurite.md)
 
-2. [Mécanismes de Défense](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense)
-   1. [Authentification Robuste](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense/Authentification_Robuste.md)
-   1. [Gestion des Autorisations](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense/Gestion_Autorisations.md)
-
-1. [Sécurité RMS FRONT-END](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front)
+2. [Sécurité RMS FRONT-END](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front)
     1. [Authentification Robuste](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front/Authentification_robuste.md)
     2. [Validation des Entrées Utilisateur](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front/Validation_entree_utilisateur.md)
+    3. [Exigences RGPD](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Front/RGPD.md)
 
+2. [Sécurité RMS BACK-END](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/BACK)
+    1. [Authentification Robuste](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/BACK/Authentification_robuste.md)
+    2. [Gestion des Autorisations (RBAC)](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/BACK/Gestion_Autorisations_(RBAC).md)
+    3. [Protection contre les Injections SQL](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/BACK/Protection_injection_SQL.md)  
+    4. [Validation des Entrées Utilisateur](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/BACK/Validation_entree_utilisateur.md)  
+    5. [Utilisation d'un ORM (Object-Relational Mapping)](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/BACK/ORM.md)  
+
+
+2. [Sécurité RMS BDD](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/BDD)
+    1. [Chiffrement des Données Sensibles](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/BDD/Chiffrement_donnee_sensibles.md)
+    2. [Gestion des Mots de Passe](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/BDD/Gestion_MDP.md)
+    3. [Protection contre les Attaques par Déni de Service (DoS)](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/BDD/Protection_attaque_dos.md)
 
 # Projet
 
