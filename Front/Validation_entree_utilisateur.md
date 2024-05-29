@@ -12,7 +12,12 @@ Côté client, nous utilisons des techniques telles que la validation côté fro
 
 **Exemple :**
 
-![Getting Started](/Assets/entree_client.png)
+```Java
+function validateInput(input) {
+  const sanitizedInput = input.replace(/[<>]/g, '');
+  return sanitizedInput;
+}
+```
 
 **Security Considerations (CSP) :**
 
@@ -20,4 +25,6 @@ Côté client, nous utilisons des techniques telles que la validation côté fro
 
 **Exemple :**
 
-![Getting Started](/Assets/csp.png)
+```Java
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; object-src 'none';">
+```

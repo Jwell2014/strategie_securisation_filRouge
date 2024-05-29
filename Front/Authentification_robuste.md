@@ -29,4 +29,15 @@ minimisant les risques d'accès non autorisés et d'atteintes à la confident
 - Utilisation de JSON Web Tokens (JWT) pour l'authentification.
 - Stockage sécurisé des JWT dans le stockage local du navigateur.
 
-![Getting Started](/Assets/auth.png)
+```Java
+// Stocker le JWT après l'authentification
+localStorage.setItem('jwt', token);
+
+// Ajouter le JWT à l'en-tête Authorization pour les appels API
+fetch('/api/resource', {
+  method: 'GET',
+  headers: {
+    'Authorization': `Bearer ${localStorage.getItem('jwt')}`
+  }
+});
+```
