@@ -16,8 +16,8 @@ protecting user data and maintaining trust.
    1. [Objectifs de Sécurité](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Introduction_Sécurite_Application/Objectifs_Sécurite.md)
 
 2. [Mécanismes de Défense](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense)
-   2. [Authentification Robuste](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense/Authentification_Robuste.md)
-   2. [Gestion des Autorisations](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense/Gestion_Autorisations.md)
+   1. [Authentification Robuste](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense/Authentification_Robuste.md)
+   1. [Gestion des Autorisations](https://github.com/Jwell2014/strategie_securisation_filRouge/blob/master/Mecanismes_Defense/Gestion_Autorisations.md)
 
 **2/ Mécanismes de Défense**
 
